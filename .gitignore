@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+*.db
+*.sqlite
+resources/
+Vector_Database/
